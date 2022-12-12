@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bird.png</file>
+        <file>pipe.png</file>
+        <file>pipe-inverted.png</file>
+    </qresource>
+</RCC>
